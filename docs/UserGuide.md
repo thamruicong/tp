@@ -46,6 +46,8 @@ Take note of the following symbols and formatting used in this document:
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div style="page-break-after: always;"></div>
+
 ## 2. Quick start
 
 ### 2.1 Installation
